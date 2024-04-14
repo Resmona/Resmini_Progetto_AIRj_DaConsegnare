@@ -1,0 +1,25 @@
+[{
+    "image": "https://images.ctfassets.net/40i19ww9637w/6yQwLrHSxmtBrpYsEYtMmk/3d6a75fb184fa17828b157f2856392b7/DX8733-007-1.jpg?w=640&fit=scale&q=65",
+    "date": "€78,00 (-40%)",
+    "likes": 30,
+    "title": "LUKA 2 - ALL STAR (JORDAN)",
+    "intro": "colorazione: Wolf Grey/Speed Yellow/Black/Hyper Jade",
+    "isLiked": true
+  },
+  {
+    "image": "https://images.ctfassets.net/40i19ww9637w/50nVuygsNQmnjc0FAlqw3U/1f9a7968d7aababd9289a447d8a6241a/FQ4796-101-1.jpg?w=640&fit=scale&q=65",
+    "date": "€120,00 (-50%)",
+    "likes": 22,
+    "title": "JA 1 - CLASSIC (NIKE)",
+    "intro": "colorazione: White/Black/White",
+    "isLiked": false
+  },
+  {
+    "image": "https://images.ctfassets.net/40i19ww9637w/70XDFYXWlu3qWpj2YcNBa2/c73b94e89e432eba4d1d33b3f244f184/FV4921-600-1.jpg?w=1600&fit=scale&q=65",
+    "date": "€180,00 (-20%)",
+    "likes": 17,
+    "title": "KOBE 6 PROTO - REVERSE GRINCH (NIKE)",
+    "intro": "colorazione: Bright Crimson/Black/Electric Green",
+    "isLiked": false
+  }
+]

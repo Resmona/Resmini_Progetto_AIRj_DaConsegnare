@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://images.ctfassets.net/40i19ww9637w/7y6pfDyLQcwoFsApONfqzm/12c3e0328c1d72f6390e905243d5b6c9/FZ8824-100-1.jpg?w=1600&fit=scale&q=65",
+    "date": "€130,00",
+    "likes": 10,
+    "title": "TATUM 2 - MOMMA'S BOY (JORDAN)",
+    "intro": "colorazione: White/Volt/Black/Hyper Pink",
+    "isLiked": true
+  },
+  {
+    "image": "https://images.ctfassets.net/40i19ww9637w/3uSVQyCbpcWfSbhSDEBc8L/ffc91044287ff01c6cf5a89d14917c3b/DV2917-004-1.jpg?w=640&fit=scale&q=65",
+    "date": "€160,00",
+    "likes": 20,
+    "title": "KD 16 - SLIM REAPER (NIKE)",
+    "intro": "colorazione: Black/Metallic Silver/Bright Crimson",
+    "isLiked": true
+  },
+  {
+    "image": "https://images.ctfassets.net/40i19ww9637w/3RkZMRS3LOwWxsyhdqC2V3/e3ee732e4bcf7b4fffab4671617d6db1/FJ1566-100-1.jpg?w=640&fit=scale&q=65",
+    "date": "€170,00",
+    "likes": 15,
+    "title": "LEBRON NXXT GEN AMPD - FIRST GAME (NIKE)",
+    "intro": "colorazione: White/Black/University Red",
+    "isLiked": true
+  }
+]
